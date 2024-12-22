@@ -35,10 +35,10 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajinkyasalunke22&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyasalunke22&theme=radical" alt="GitHub Streak">
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyasalunke22&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajinkyasalunke22&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyasalunke22&layout=compact&theme=radical" alt="Top Languages">
@@ -64,9 +64,10 @@
 ---
 
 ### 🌟 Fun Fact:
+<div align="center">
 "Programming isn't just about writing code; it's about creating something extraordinary out of nothing."
 
-<div align="center">
+
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="50%">
 </div>
 
