@@ -1,3 +1,5 @@
+<!-- Updated GitHub Profile README -->
+
 <div align="center">
   <img src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif" alt="MasterHead" width="100%">
   
@@ -19,7 +21,7 @@
 - 👯 **Looking to Collaborate:** Open to collaborations on **Python and backend projects**.
 - 💬 **Ask Me About:** Node.js, Express.js, Python, Docker, Elasticsearch, and building scalable backend systems.
 - 📫 **How to Reach Me:** ajinkya.salunke.official@gmail.com
-- 📝 **Resume:** [View Here](https://1drv.ms/f/s!Ao7ceeCPP6jv-wXj1Mn5O1-XiNgU?e=Yq7Gkj)
+- 📝 **Resume:** [View Here](https://1drv.ms/f/c/efa83f8fe079dc8e/Eo7ceeCPP6gggO-FPQAAAAABrMEsYhQoBU6xtihCm69z7w?e=v2uUw0)
 - 🌐 **Portfolio:** [ajinkyasalunke.netlify.app](https://ajinkyasalunke.netlify.app/)
 
 ---
@@ -63,10 +65,20 @@
 
 ---
 
+### 🏅 HackerRank Badges:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-Gold?style=for-the-badge&logo=hackerrank&logoColor=white&color=yellow" alt="Problem Solving Badge">
+  <img src="https://img.shields.io/badge/Python-5%20Stars?style=for-the-badge&logo=hackerrank&logoColor=white&color=blue" alt="Python Badge">
+  <img src="https://img.shields.io/badge/SQL-5%20Stars?style=for-the-badge&logo=hackerrank&logoColor=white&color=green" alt="SQL Badge">
+  <img src="https://img.shields.io/badge/JavaScript-3%20Stars?style=for-the-badge&logo=hackerrank&logoColor=white&color=orange" alt="JavaScript Badge">
+</div>
+
+---
+
 ### 🌟 Fun Fact:
 <div align="center">
 "Programming isn't just about writing code; it's about creating something extraordinary out of nothing."
-
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="50%">
 </div>
