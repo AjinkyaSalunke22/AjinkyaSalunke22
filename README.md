@@ -1,5 +1,3 @@
-<!-- Updated GitHub Profile README -->
-
 <div align="center">
   <img src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif" alt="MasterHead" width="100%">
   
@@ -65,20 +63,10 @@
 
 ---
 
-### 🏅 HackerRank Badges:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-Gold?style=for-the-badge&logo=hackerrank&logoColor=white&color=yellow" alt="Problem Solving Badge">
-  <img src="https://img.shields.io/badge/Python-5%20Stars?style=for-the-badge&logo=hackerrank&logoColor=white&color=blue" alt="Python Badge">
-  <img src="https://img.shields.io/badge/SQL-5%20Stars?style=for-the-badge&logo=hackerrank&logoColor=white&color=green" alt="SQL Badge">
-  <img src="https://img.shields.io/badge/JavaScript-3%20Stars?style=for-the-badge&logo=hackerrank&logoColor=white&color=orange" alt="JavaScript Badge">
-</div>
-
----
-
 ### 🌟 Fun Fact:
 <div align="center">
 "Programming isn't just about writing code; it's about creating something extraordinary out of nothing."
+
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="50%">
 </div>
