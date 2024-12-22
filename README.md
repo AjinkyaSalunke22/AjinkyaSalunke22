@@ -1,4 +1,4 @@
-<!-- Updated GitHub Profile README -->
+
 
 <div align="center">
   <img src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif" alt="MasterHead" width="100%">
@@ -45,9 +45,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyasalunke22&layout=compact&theme=radical" alt="Top Languages">
 </div>
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ajinkyasalunke22&theme=radical&hide_border=true" alt="GitHub Contribution Activity">
-</div>
 
 ---
 
@@ -61,9 +58,20 @@
 
 ### 💡 Featured Projects:
 
-- 🧠 **[IntelliTask](https://github.com/AjinkyaSalunke22/IntelliTask):** AI-powered task management tool to boost productivity.
-- 🛠️ **[Backend APIs](https://github.com/AjinkyaSalunke22/backend-apis):** Comprehensive backend solutions for real-world applications.
-- 🌐 **[Portfolio Website](https://ajinkyasalunke.netlify.app):** A showcase of my projects, skills, and achievements.
+<div align="center">
+  <a href="https://github.com/AjinkyaSalunke22/BookStoreAPIs" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjinkyaSalunke22&repo=BookStoreAPIs&theme=radical" alt="BookStore APIs">
+  </a>
+  <a href="https://github.com/AjinkyaSalunke22/javascript-todo-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjinkyaSalunke22&repo=javascript-todo-app&theme=radical" alt="JavaScript Todo App">
+  </a>
+  <a href="https://github.com/AjinkyaSalunke22/CRED-Fintech-Investment-Tracking-Feature" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjinkyaSalunke22&repo=CRED-Fintech-Investment-Tracking-Feature&theme=radical" alt="CRED Fintech Investment Tracking Feature">
+  </a>
+  <a href="https://github.com/AjinkyaSalunke22/youtube-premium-flexbox-clone" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjinkyaSalunke22&repo=youtube-premium-flexbox-clone&theme=radical" alt="YouTube Premium Flexbox Clone">
+  </a>
+</div>
 
 ---
 
