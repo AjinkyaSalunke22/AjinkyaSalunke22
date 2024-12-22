@@ -1,3 +1,5 @@
+<!-- Updated GitHub Profile README -->
+
 <div align="center">
   <img src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif" alt="MasterHead" width="100%">
   
@@ -36,8 +38,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajinkyasalunke22&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyasalunke22&theme=radical" alt="GitHub Streak">
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyasalunke22&layout=compact&theme=radical" alt="Top Languages">
+</div>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ajinkyasalunke22&theme=radical&hide_border=true" alt="GitHub Contribution Activity">
 </div>
 
 ---
